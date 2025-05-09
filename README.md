@@ -32,5 +32,4 @@ Dự đoán khả năng sống sót của hành khách dựa trên các thông t
 | Môi trường phát triển | Jupyter Notebook |
 | Nguồn dữ liệu | [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data) |
 
-## 🗂 Cấu trúc thư mục
 
